@@ -10,3 +10,10 @@ def first_element(argument)
   argument[0]
 end
   
+def third_element(argument)
+  argument[2]
+end
+
+def last_element(argument)
+  argument[-1]
+end
